@@ -1,4 +1,4 @@
-<h1 align='center'>EV-segmentatoni</h1>
+<h1 align='center'>EV-segmentation</h1>
 
 Team Members:
 - Fraidoon Omarzai
